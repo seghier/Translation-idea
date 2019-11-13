@@ -1,21 +1,21 @@
 # Translation-idea
 ## #AndroidDevChallenge
 
--Explanation:
-<br/>شربت من العين
-<br/>i drank from water source
+-**Explanation**:
+<br/>**شربت من العين**
+<br/>i drank from a water source
 <br/>Google/Bing/Yandex translate: I drank from the eye ---> wrong
 
-<br/>ذهبت للعين
+<br/>**ذهبت للعين**
 <br/>I go to Al Ain
 <br/>Google/Bing/Yandex translate: I go to the eye ---> wrong
 
-<br/>-the solution:
+<br/>-**the solution**:
 <br/>العين : blue color ---> mean water source
 <br/>العين : red color ---> mean Al Ain city
 <br/>العين : green color ---> mean human eye
 
-<br/>-Now the translation program can understand better :
+<br/>-**Now the translation program can understand better**:
 
 <br/>شربت من العين >> i drank from water source
 <br/>ذهبت للعين >> i go to Al Ain
