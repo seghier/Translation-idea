@@ -22,4 +22,4 @@
 
 ![alt text](https://raw.githubusercontent.com/seghier/Translation-idea/master/Capture.PNG)
 
-![alt text](https://images2.imgbox.com/37/8b/1Rv47D4L_o.png)
+![alt text](https://raw.githubusercontent.com/seghier/Translation-idea/master/aqw.PNG)
